@@ -1,5 +1,18 @@
 body {
     margin: 0 auto;
     width: 50%;
-    background-color: aliceblue;
+    background-color: rgba(205, 225, 243, 0.829);
+}
+
+.img {
+    float: left;
+    margin-right: 20px;
+}
+
+.genres {
+    font-size: 20px;
+}
+
+.summary p {
+    margin-left: 200px;
 }
