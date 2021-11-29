@@ -2,7 +2,7 @@ let inputfield  = document.getElementById("Inputfield");
 let content     = document.getElementById("content");
 let searchBtn   = document.getElementById("search-serie");
 let episodeList = document.getElementById("episodes");
-let resetBtn       = document.getElementById("reset")
+let resetBtn    = document.getElementById("reset")
 
 searchBtn.addEventListener("click", fetchData);
 
